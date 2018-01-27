@@ -1,0 +1,12 @@
+Django==1.11
+requests==2.13.0
+psycopg2==2.7.1
+djangorestframework==3.6.2
+django-storages==1.5.2
+boto3==1.4.4
+Pillow==4.1.0
+-e git+https://github.com/mobolic/facebook-sdk.git#egg=facebook-sdk
+django-extra-fields==0.9
+moviepy==0.2.3.2
+elasticsearch==5.4.0
+raven==6.1.0
